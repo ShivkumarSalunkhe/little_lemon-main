@@ -59,6 +59,6 @@ This is a closed project. No further development intendet.
 
 ## Author
 
-- Github - [Rauldotgit](https://github/rauldotgit)
+- Github - Link
 
 ## Acknowledgments
